@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CTags",
+		"FileDiffs",
+		"GraphvizPreview",
+		"IMESupport",
+		"Markdown Preview",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-contrib-clang",
+		"TrailingSpaces"
+	]
+}
