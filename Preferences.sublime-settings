@@ -1,7 +1,8 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
-	"font_size": 12,
+	"dpi_scale": 1.0,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -12,6 +13,5 @@
 		100,
 		120
 	],
-	"translate_tabs_to_spaces": true,
-	"dpi_scale":1.0
+	"translate_tabs_to_spaces": true
 }

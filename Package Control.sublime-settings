@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"ConvertToUTF8",
 		"CTags",
 		"FileDiffs",
 		"GraphvizPreview",
