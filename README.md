@@ -28,7 +28,7 @@ Package Control 是非常推荐的 Sublime 插件管理用的插件（好像有�
 
 #### 最简单的安装方式
 
-打开 Sublime Text 3，在主界面下按下 `ctrl + ~(反括号)` 快捷键，
+打开 Sublime Text 3，在主界面下按下 `ctrl + ~(反引号)` 快捷键，
 或者单击主界面菜单栏的 `View -> Show Console`，
 在底部出现的 command panel 中键入以下 python 代码：
 
@@ -48,7 +48,9 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 
 安装好 Package Control 插件之后，我们只要同步好配置文件，剩下的就不需要我们操心啦~  
 单击主界面菜单栏的 `Preferences -> Browse Packages` 打开配置文件夹，
-将里面的 `User` 目录改名为 `User.old`,然后执行 git 命令  
+将里面的 `User` 目录改名为 `User.old`,然后执行 git 命令
+(windows 通过 git bash 或者 win10 的 bash，Max OS X 或 Linux 通过 terminal)  
+
 `git clone https://github.com/Cibifang/User.git`  
 
 > 如果是 fork 到你自己的仓库，这里 clone 你自己的仓库即可  
