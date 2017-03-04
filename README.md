@@ -64,11 +64,11 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 
 ### 插件
 
-* (Package Control)(https://packagecontrol.io/) : 插件管理  
+* [Package Control](https://packagecontrol.io/) : 插件管理  
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) : 括号匹配  
 * [CTags](https://github.com/SublimeText/CTags) : 将你的 sublime 打造成类似于ide的效果
 (需要再做单独的配置，具体查看[官网](https://github.com/SublimeText/CTags))  
-* (FileDiffs)[(https://github.com/colinta/SublimeFileDiffs) : 
+* [FileDiffs](https://github.com/colinta/SublimeFileDiffs) : 
 查看选定文件之间的差别，用于和别人或者自己的历史代码比较/查看更改  
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) : 
 Markdown 格式绝对是你写文档节省时间的利器！而这个插件提供了在 sublime 上预览 markdown 格式文档效果的能力  
