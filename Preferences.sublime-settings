@@ -1,7 +1,6 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
-	"dpi_scale": 1.0,
 	"font_size": 14,
 	"ignored_packages":
 	[

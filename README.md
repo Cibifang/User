@@ -87,7 +87,6 @@ Markdown 格式绝对是你写文档节省时间的利器！而这个插件提�
 {
     "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",     //主题
     "default_line_ending": "unix",                                          //避免在windows环境编写linux代码产生不必要的格式错误
-    "dpi_scale": 1.0,                                                       //避免高分屏下sublime标题栏中文乱码
     "font_size": 14,                                                        //字体大小
     "ignored_packages":
     [
@@ -102,3 +101,4 @@ Markdown 格式绝对是你写文档节省时间的利器！而这个插件提�
     "translate_tabs_to_spaces": true                                        //自动将tab转化为space，避免跨平台代码出错
 }
 ```
+
