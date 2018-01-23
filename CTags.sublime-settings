@@ -28,7 +28,7 @@
     //
     //     "command": "ctags -R -f .tags --exclude=some/path"
     //
-    "command": "E:/app/ctags58/ctags.exe",
+    "command": "C:/Program Files/Sublime Text 3/ctags.exe",
 
     // Enable recursive searching of directories when building tag files.
     //
